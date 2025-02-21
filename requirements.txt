@@ -6,4 +6,11 @@ pinecone-notebooks==0.1.1
 pypdf
 flask
 python-dotenv
-
+gunicorn
+langchain-community
+langchain-google-genai
+google-generativeai
+transformers
+torch
+faiss-cpu
+huggingface-hub

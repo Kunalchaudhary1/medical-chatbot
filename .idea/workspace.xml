@@ -24,12 +24,12 @@
     &quot;assignee&quot;: &quot;Kunalchaudhary1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Sourav-Samanta1/End-to-End-Medical-ChatBot.git&quot;,
-    &quot;accountId&quot;: &quot;9548739f-cab7-4fae-9fa3-a72320b14ada&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kunalchaudhary1/medical-chatbot.git",
+    "accountId": "9548739f-cab7-4fae-9fa3-a72320b14ada"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -42,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>

@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request
 import os
 import shutil
+import pickle
+
 from dotenv import load_dotenv
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
